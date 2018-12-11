@@ -4,12 +4,13 @@
     </a>
     <br>Solutions to Course-net meeting
 </p>
+For Learning Purpose only<br>
 
 * [Intro](#Intro)
 * [Algorithm](##Algorithm)
 
 Solutions are coded using C++
-For Learning Purpose only
+
 
 # Intro
 I normally don't read book
@@ -20,8 +21,8 @@ The book was moved to GitHub by Andika Leonardo for collaborative updating and m
 <p align="center">
     <a href="https://drive.google.com/open?id=1lqpkykIgoiI57u9gLidcgP9rcqRRNONQ">
         <img height=300 src="https://images-na.ssl-images-amazon.com/images/I/51TC80IuOSL._SX322_BO1,204,203,200_.jpg">
-    </a>
-    [Computer Science Distilled](https://images-na.ssl-images-amazon.com/images/I/51TC80IuOSL._SX322_BO1,204,203,200_.jpg)
+    </a><br>
+    [Computer Science Distilled](https://drive.google.com/open?id=1lqpkykIgoiI57u9gLidcgP9rcqRRNONQ)
 </p>
 
 ## Algorithm
