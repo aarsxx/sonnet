@@ -8,8 +8,8 @@
 # Intro
 <p align="right">
     <i>
-Everybody in this country should learn to program a computer, because it teaches you how to think.<br>
-— steve jobs<br>
+        Everybody in this country should learn to program a computer, because it teaches you how to think.<br>
+        — steve jobs<br>
     </i>
 </p>
 
@@ -17,13 +17,17 @@ Everybody in this country should learn to program a computer, because it teaches
 * [Book](#Book)
 * [Algorithm](##Algorithm)
 
-Solutions are coded using C++<br>
-Languange used are English and Bahasa<br>
-For Learning Purpose only<br>
+
+<p align="right">
+    <i>
+        Solutions are coded using C++<br>
+        Languange used are English and Bahasa<br>
+        For Learning Purpose only<br>
+    </i>
+</p>
+
 
 # Book
-    This Book was originally from [Source Making](https://sourcemaking.com/store).<br>
-    The Book was moved to GitHub by Andika Leonardo for collaborative updating and maintenance.<br><br>
 <p align="center">
     <b>I normally don't read book</b><br>
     but I can recommend this E-book<br>
@@ -35,6 +39,9 @@ For Learning Purpose only<br>
         <img height=300 src="https://images-na.ssl-images-amazon.com/images/I/51TC80IuOSL._SX322_BO1,204,203,200_.jpg">
     </a>
 </p>
+
+This Book was originally from [Source Making](https://sourcemaking.com/store).<br>
+The Book was moved to GitHub by Andika Leonardo for collaborative updating and maintenance.<br><br>
 
 ## Algorithm
 | Meeting |                                                          Material                                                         |                                                                                          Solution                                                                                         |
