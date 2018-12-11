@@ -4,13 +4,14 @@
     </a>
     <br>Solutions to Course-net meeting
 </p>
-For Learning Purpose only<br>
 
 * [Intro](#Intro)
 * [Algorithm](##Algorithm)
 
+
 Solutions are coded using C++<br>
 Languange used are English and Bahasa<br>
+For Learning Purpose only<br>
 
 # Intro
 I normally don't read book<br>
@@ -23,10 +24,9 @@ The book was moved to GitHub by Andika Leonardo for collaborative updating and m
         <img height=300 src="https://images-na.ssl-images-amazon.com/images/I/51TC80IuOSL._SX322_BO1,204,203,200_.jpg">
     </a><br>
 </p>
-    [Computer Science Distilled](https://drive.google.com/open?id=1lqpkykIgoiI57u9gLidcgP9rcqRRNONQ)
+    [Computer Science Distilled](https://drive.google.com/open?id=1lqpkykIgoiI57u9gLidcgP9rcqRRNONQ)<br>
+    
 ## Algorithm
-
-
 | Meeting |                                                          Material                                                         |                                                                                          Solution                                                                                         |
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |  1  | Input, Output, and Variable                                        | [pert1.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Pert1.cpp)                | 
