@@ -16,10 +16,13 @@ For Learning Purpose only<br>
 # Intro
 I normally don't read book<br>
 but i can recommend this E-book<br>
-This list was originally a clone of [Source Making](https://sourcemaking.com/store).<br>
-The book was moved to GitHub by Andika Leonardo for collaborative updating and maintenance.
+This Book was originally from [Source Making](https://sourcemaking.com/store).<br>
+The book was moved to GitHub by Andika Leonardo for collaborative updating and maintenance.<br>
+
 <p align="center">
-    Computer Science Distilled by Wladston Ferreira Filho.<br>
+    Computer Science Distilled by Wladston Ferreira Filho.
+    <br>
+    <br>
     <a href="https://drive.google.com/open?id=1lqpkykIgoiI57u9gLidcgP9rcqRRNONQ">
         <img height=300 src="https://images-na.ssl-images-amazon.com/images/I/51TC80IuOSL._SX322_BO1,204,203,200_.jpg">
     </a><br>
