@@ -15,7 +15,7 @@
 
 * [Intro](#Intro)
 * [Book](#Book)
-* [Algorithm](##Algorithm)
+* [Algorithm](#Algorithm)
 
 
 <p align="right">
