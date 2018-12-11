@@ -6,8 +6,6 @@
 </p>
 
 * [Algorithm](#Algorithm)
-* [Data Structures](#data-structures)
-* [General Programming](#general-programming)
 
 Solutions are coded using C++ , Java 8 <br>
 For Learning Purpose only <br>
