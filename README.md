@@ -39,10 +39,10 @@
         <img height=300 src="https://images-na.ssl-images-amazon.com/images/I/51TC80IuOSL._SX322_BO1,204,203,200_.jpg">
     </a>
 </p>
-    <i>
+<i>
     This Book was originally from [Source Making](https://sourcemaking.com/store).<br>
     The Book was moved to GitHub by Andika Leonardo for collaborative updating and maintenance.<br><br>
-    </i>
+</i>
     
     
 ## Algorithm
