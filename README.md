@@ -5,7 +5,7 @@
     <br>Efficient solutions to Course-net problems
 </p>
 
-* [Algorithms](#Mater)
+* [Algorithm](#Algorithm)
 * [Data Structures](#data-structures)
 * [General Programming](#general-programming)
 
