@@ -2,8 +2,8 @@
     <a href="https://www.course-net.com">
         <img height=85 src="https://cdn-images-1.medium.com/max/1600/1*Svef7D3qIbPZ0j4YXOjWuw.png">
     </a>
+    ---
 </p>
-======================================
 
 # Intro
 <p align="right">
