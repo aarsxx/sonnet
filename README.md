@@ -19,8 +19,9 @@ This list was originally a clone of [Source Making](https://sourcemaking.com/sto
 The book was moved to GitHub by Andika Leonardo for collaborative updating and maintenance.
 <p align="center">
     <a href="https://drive.google.com/open?id=1lqpkykIgoiI57u9gLidcgP9rcqRRNONQ">
-        <img height=90 src="https://images-na.ssl-images-amazon.com/images/I/51TC80IuOSL._SX322_BO1,204,203,200_.jpg">
+        <img height=300 src="https://images-na.ssl-images-amazon.com/images/I/51TC80IuOSL._SX322_BO1,204,203,200_.jpg">
     </a>
+    [Computer Science Distilled](https://images-na.ssl-images-amazon.com/images/I/51TC80IuOSL._SX322_BO1,204,203,200_.jpg)
 </p>
 
 ## Algorithm
