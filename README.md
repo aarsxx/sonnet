@@ -5,7 +5,7 @@
     <br>Solutions to Course-net meeting
 </p>
 
-* [Intro](#Intro)
+* [Book](#Book)
 * [Algorithm](##Algorithm)
 
 
@@ -13,14 +13,14 @@ Solutions are coded using C++<br>
 Languange used are English and Bahasa<br>
 For Learning Purpose only<br>
 
-# Intro
+# Book
 I normally don't read book<br>
 but i can recommend this E-book<br>
 This Book was originally from [Source Making](https://sourcemaking.com/store).<br>
 The book was moved to GitHub by Andika Leonardo for collaborative updating and maintenance.<br>
 
 <p align="center">
-    Computer Science Distilled by Wladston Ferreira Filho.
+    <b>Computer Science Distilled by Wladston Ferreira Filho.</b>
     <br>
     <br>
     <a href="https://drive.google.com/open?id=1lqpkykIgoiI57u9gLidcgP9rcqRRNONQ">
