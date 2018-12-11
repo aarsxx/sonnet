@@ -5,20 +5,23 @@
     <br>Solutions to Course-net meeting
 </p>
 
-* [Algorithm](#Algorithm)
+* [Intro](#Intro)
+* [Algorithm](##Algorithm)
 
-Solutions are coded using C++ , Java 8 <br>
-For Learning Purpose only <br>
+Solutions are coded using C++
+For Learning Purpose only
 
 # Intro
 I normally don't read book
-but i can recommend this book
+but i can recommend this E-book
 This list was originally a clone of [Source Making](https://sourcemaking.com/store) with contributions from Wladston Ferreira Filho.
 
 The book was moved to GitHub by Andika Leonardo for collaborative updating and maintenance.
-
-[Computer Science Distilled](https://drive.google.com/open?id=1lqpkykIgoiI57u9gLidcgP9rcqRRNONQ)
-
+<p align="center">
+    <a href="https://drive.google.com/open?id=1lqpkykIgoiI57u9gLidcgP9rcqRRNONQ">
+        <img height=90 src="https://images-na.ssl-images-amazon.com/images/I/51TC80IuOSL._SX322_BO1,204,203,200_.jpg">
+    </a>
+</p>
 
 ## Algorithm
 
