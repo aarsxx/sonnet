@@ -12,7 +12,7 @@
 Solutions are coded using C++ , Java 8 <br>
 For Learning Purpose only <br>
 
-#Algorithm
+# Algorithm
 
 
 | Meeting |                                                          Material                                                         |                                                                                          Solution                                                                                         |
