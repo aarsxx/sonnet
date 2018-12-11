@@ -39,12 +39,12 @@
         <img height=300 src="https://images-na.ssl-images-amazon.com/images/I/51TC80IuOSL._SX322_BO1,204,203,200_.jpg">
     </a>
 </p>
-<p align="right">
     <i>
     This Book was originally from [Source Making](https://sourcemaking.com/store).<br>
     The Book was moved to GitHub by Andika Leonardo for collaborative updating and maintenance.<br><br>
     </i>
-</p>   
+    
+    
 ## Algorithm
 | Meeting |                                                          Material                                                         |                                                                                          Solution                                                                                         |
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -56,8 +56,3 @@
 |  6  | MID test                                                           | [pert6.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Pert6.cpp)                | 
 |  7  | Function                                                           | [pert7.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Pert7.cpp)                | 
 |  8  | Built-in Function                                                  | [pert8.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Pert8.cpp)                | 
-
-
-
-
-
