@@ -10,7 +10,17 @@
 Solutions are coded using C++ , Java 8 <br>
 For Learning Purpose only <br>
 
-# Algorithm
+# Intro
+I normally don't read book
+but i can recommend this book
+This list was originally a clone of [Source Making](https://sourcemaking.com/store) with contributions from Wladston Ferreira Filho.
+
+The book was moved to GitHub by Andika Leonardo for collaborative updating and maintenance.
+
+[Computer Science Distilled](https://drive.google.com/open?id=1lqpkykIgoiI57u9gLidcgP9rcqRRNONQ)
+
+
+## Algorithm
 
 
 | Meeting |                                                          Material                                                         |                                                                                          Solution                                                                                         |
