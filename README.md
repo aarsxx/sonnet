@@ -7,8 +7,10 @@
 
 # Intro
 <p align="right">
+    <i>
 Everybody in this country should learn to program a computer, because it teaches you how to think.<br>
-—STEVE JOBS<br>
+— steve jobs<br>
+    </i>
 </p>
 
 * [Intro](#Intro)
