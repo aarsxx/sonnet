@@ -2,10 +2,15 @@
     <a href="https://www.course-net.com">
         <img height=85 src="https://cdn-images-1.medium.com/max/1600/1*Svef7D3qIbPZ0j4YXOjWuw.png">
     </a>
-    <br>Solutions to Course-net meeting
+    <br>© 2018 Andika Leonardo. All Rights Reserved.
 </p>
 
 # Intro
+<p align="right">
+Everybody in this country should learn to program a computer, because it teaches you how to think.<br>
+—STEVE JOBS<br>
+</p>
+
 * [Intro](#Intro)
 * [Book](#Book)
 * [Algorithm](##Algorithm)
@@ -15,6 +20,8 @@ Languange used are English and Bahasa<br>
 For Learning Purpose only<br>
 
 # Book
+    This Book was originally from [Source Making](https://sourcemaking.com/store).<br>
+    The Book was moved to GitHub by Andika Leonardo for collaborative updating and maintenance.<br><br>
 <p align="center">
     <b>I normally don't read book</b><br>
     but I can recommend this E-book<br>
@@ -24,11 +31,9 @@ For Learning Purpose only<br>
     <br>
     <a href="https://drive.google.com/open?id=1lqpkykIgoiI57u9gLidcgP9rcqRRNONQ">
         <img height=300 src="https://images-na.ssl-images-amazon.com/images/I/51TC80IuOSL._SX322_BO1,204,203,200_.jpg">
-    </a><br>
+    </a>
 </p>
-    This Book was originally from [Source Making](https://sourcemaking.com/store).<br>
-    The book was moved to GitHub by Andika Leonardo for collaborative updating and maintenance.<br>
-    
+
 ## Algorithm
 | Meeting |                                                          Material                                                         |                                                                                          Solution                                                                                         |
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
