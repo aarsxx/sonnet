@@ -26,6 +26,13 @@
 </p>
 
 
+<p align="center">
+    <b>
+       © 2018 Andika Leonardo. All Rights Reserved.
+    </b>
+</p>
+
+
 # Book
 <p align="center">
     <b>I normally don't read book</b><br>
