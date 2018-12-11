@@ -5,27 +5,27 @@
     <br>Solutions to Course-net meeting
 </p>
 
+<b>Intro</b>
+
 * [Book](#Book)
 * [Algorithm](##Algorithm)
-
 
 Solutions are coded using C++<br>
 Languange used are English and Bahasa<br>
 For Learning Purpose only<br>
 
 # Book
-I normally don't read book<br>
-but i can recommend this E-book<br>
-This Book was originally from [Source Making](https://sourcemaking.com/store).<br>
-The book was moved to GitHub by Andika Leonardo for collaborative updating and maintenance.<br>
-
 <p align="center">
+    I normally don't read book<br>
+    but i can recommend this E-book<br>
     <b>Computer Science Distilled by Wladston Ferreira Filho.</b>
     <br>
     <br>
     <a href="https://drive.google.com/open?id=1lqpkykIgoiI57u9gLidcgP9rcqRRNONQ">
         <img height=300 src="https://images-na.ssl-images-amazon.com/images/I/51TC80IuOSL._SX322_BO1,204,203,200_.jpg">
     </a><br>
+    This Book was originally from [Source Making](https://sourcemaking.com/store).<br>
+The book was moved to GitHub by Andika Leonardo for collaborative updating and maintenance.<br>
 </p>
     
 ## Algorithm
