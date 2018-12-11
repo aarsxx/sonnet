@@ -2,7 +2,7 @@
     <a href="https://www.course-net.com">
         <img height=85 src="https://cdn-images-1.medium.com/max/1600/1*Svef7D3qIbPZ0j4YXOjWuw.png">
     </a>
-    <br>Efficient solutions to Course-net problems
+    <br>Solutions to Course-net meeting
 </p>
 
 * [Algorithm](#Algorithm)
@@ -15,7 +15,7 @@ For Learning Purpose only <br>
 #Algorithm
 
 
-| Meeting |                                                          Challenge                                                         |                                                                                          Solution                                                                                         |
+| Meeting |                                                          Material                                                         |                                                                                          Solution                                                                                         |
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |  1  | Input, Output, and Variable                                        | [pert1.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Pert1.cpp)                | 
 |  2  | Aritmethic Operation                                               | [pert2.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Pert2.cpp)                | 
