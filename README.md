@@ -44,7 +44,7 @@
     <a href="https://sourcemaking.com/store">
             Source Making
         </a>
-  $22.50 <br>
+  for $22.50 <br>
     The Book was moved to GitHub by Andika Leonardo for collaborative updating and maintenance.<br><br>
 </i>
     
