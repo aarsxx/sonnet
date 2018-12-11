@@ -13,18 +13,19 @@ Solutions are coded using C++
 
 
 # Intro
-I normally don't read book
-but i can recommend this E-book
-This list was originally a clone of [Source Making](https://sourcemaking.com/store) with contributions from Wladston Ferreira Filho.
+I normally don't read book<br>
+but i can recommend this E-book<br>
+This list was originally a clone of [Source Making](https://sourcemaking.com/store) with contributions from Wladston Ferreira Filho.<br>
 
 The book was moved to GitHub by Andika Leonardo for collaborative updating and maintenance.
 <p align="center">
     <a href="https://drive.google.com/open?id=1lqpkykIgoiI57u9gLidcgP9rcqRRNONQ">
         <img height=300 src="https://images-na.ssl-images-amazon.com/images/I/51TC80IuOSL._SX322_BO1,204,203,200_.jpg">
     </a><br>
-    [Computer Science Distilled] (https://drive.google.com/open?id=1lqpkykIgoiI57u9gLidcgP9rcqRRNONQ)
 </p>
-
+<p align="center">
+    [Computer Science Distilled](https://drive.google.com/open?id=1lqpkykIgoiI57u9gLidcgP9rcqRRNONQ)
+</p>
 ## Algorithm
 
 
