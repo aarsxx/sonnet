@@ -5,8 +5,8 @@
     <br>Solutions to Course-net meeting
 </p>
 
-<b>Intro</b>
-
+# Intro
+* [Intro](#Intro)
 * [Book](#Book)
 * [Algorithm](##Algorithm)
 
@@ -16,17 +16,18 @@ For Learning Purpose only<br>
 
 # Book
 <p align="center">
-    I normally don't read book<br>
-    but i can recommend this E-book<br>
+    <b>I normally don't read book</b><br>
+    but I can recommend this E-book<br>
+        <br>
     <b>Computer Science Distilled by Wladston Ferreira Filho.</b>
-    <br>
+        <br>
     <br>
     <a href="https://drive.google.com/open?id=1lqpkykIgoiI57u9gLidcgP9rcqRRNONQ">
         <img height=300 src="https://images-na.ssl-images-amazon.com/images/I/51TC80IuOSL._SX322_BO1,204,203,200_.jpg">
     </a><br>
-    This Book was originally from [Source Making](https://sourcemaking.com/store).<br>
-The book was moved to GitHub by Andika Leonardo for collaborative updating and maintenance.<br>
 </p>
+    This Book was originally from [Source Making](https://sourcemaking.com/store).<br>
+    The book was moved to GitHub by Andika Leonardo for collaborative updating and maintenance.<br>
     
 ## Algorithm
 | Meeting |                                                          Material                                                         |                                                                                          Solution                                                                                         |
