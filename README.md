@@ -66,4 +66,4 @@
 |  6  | MID test                                                           | [pert6.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Pert6.cpp)                | 
 |  7  | Function                                                           | [pert7.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Pert7.cpp)                | 
 |  8  | Built-in Function                                                  | [pert8.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Pert8.cpp)                | 
-|  9  | Struct                                                             | [pert9.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Pert9.cpp)                | 
+|  9  | Structures                                                             | [pert9.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Pert9.cpp)                | 
