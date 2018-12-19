@@ -59,7 +59,7 @@
 | Meeting |                                                          Material                                                         |                                                                                          Solution                                                                                         |
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |  1  | Input, Output, and Variable                                        | [pert1.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Pert1.cpp)                | 
-|  2  | Aritmethic Operation                                               | [pert2.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Pert2.cpp)                | 
+|  2  | Aritmethic Operation                                               | [pert2.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert2.cpp)                | 
 |  3  | Iteration                                                          | [pert3.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Pert3.cpp)                | 
 |  4  | Repetition                                                         | [pert4.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Pert4.cpp)                | 
 |  5  | Array and Pointer                                                  | [pert5.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Pert5.cpp)                | 
