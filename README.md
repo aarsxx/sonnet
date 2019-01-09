@@ -71,6 +71,7 @@
 |  9  | Structures                                                         | [pert9.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert9.cpp)                | 
 |  10 | Searching and Sorting                                              | [pert10.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert10.cpp)                | 
 |  11 | File Operation                                                     | [pert11.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert11.cpp)                | 
-|  12 | Final Tesst                                                        | [pert12.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert12.cpp)                | 
+|  12 | Final Test                                                         | [pert12.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert12.cpp)                | 
+|  13 | Review                                                             | [review.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert12.cpp)                | 
 
 ## Data Structure
