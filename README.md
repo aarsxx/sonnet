@@ -17,7 +17,8 @@
 * [Intro](#Intro)
 * [Book](#Book)
 * [Algorithm](#Algorithm)
-
+* [Data Structures](#Data Structures)
+* [Object Oriented Programming](# Object Oriented Programming)
 
 <p align="right">
     <i>
