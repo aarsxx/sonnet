@@ -17,8 +17,8 @@
 * [Intro](#Intro)
 * [Book](#Book)
 * [Algorithm](#Algorithm)
-* [Data Structures](#Data_Structures)
-* [Object Oriented Programming](#Object_Oriented_Programming)
+* [Data Structures](#DataStructures)
+* [Object Oriented Programming](#ObjectOrientedProgramming)
 
 <p align="right">
     <i>
@@ -74,7 +74,7 @@
 |  11 | File Operation                                                     | [pert11.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert11.cpp)                | 
 |  12 | Final Test                                                         | [pert12.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert12.cpp)                | 
 
-## Data Structure
+## DataStructures
 | Meeting |                                                          Material                                                         |                                                                                          Solution                                                                                         |
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |  1  | Linked-List  | [pert1.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Pert1.cpp)                | 
@@ -90,7 +90,7 @@
 |  11 | File Operation                                                     | [pert11.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert11.cpp)                | 
 |  12 | Final Test                                                         | [pert12.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert12.cpp)                | 
 
-## Object Oriented Programming
+## ObjectOrientedProgramming
 | Meeting |                                                          Material                                                         |                                                                                          Solution                                                                                         |
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |  1  | Input, Output, and Variable                                        | [pert1.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Pert1.cpp)                | 
