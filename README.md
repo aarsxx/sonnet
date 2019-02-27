@@ -43,7 +43,7 @@
     <b>Computer Science Distilled by Wladston Ferreira Filho.</b>
         <br>
     <br>
-    <a href="https://drive.google.com/open?id=1lqpkykIgoiI57u9gLidcgP9rcqRRNONQ" target = blank>
+    <a href="https://drive.google.com/open?id=1lqpkykIgoiI57u9gLidcgP9rcqRRNONQ" a target="_blank">
         <img height=300 src="https://images-na.ssl-images-amazon.com/images/I/51TC80IuOSL._SX322_BO1,204,203,200_.jpg">
     </a>
 </p>
