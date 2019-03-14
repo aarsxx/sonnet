@@ -70,34 +70,35 @@
 |  7  | Function                                                           | [pert7.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert7.cpp)                | 
 |  8  | Built-in Function                                                  | [pert8.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert8.cpp)                | 
 |  9  | Structures                                                         | [pert9.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert9.cpp)                | 
-|  10 | Searching and Sorting                                              | [pert10.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert10.cpp)                | 
-|  11 | File Operation                                                     | [pert11.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert11.cpp)                | 
-|  12 | Final Test                                                         | [pert12.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert12.cpp)                | 
+|  10 | Searching and Sorting                                              | [pert10.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert10.cpp)               | 
+|  11 | File Operation                                                     | [pert11.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert11.cpp)               | 
+|  12 | Final Test                                                         | [pert12.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert12.cpp)               | 
 
 ## DataStructures
 | Meeting |                                                          Material                                                         |                                                                                          Solution                                                                                         |
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  1  | Linked-List  | [pert1.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Pert1.cpp)                | 
-|  2  | Double Linked-List  | [pert2.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert2.cpp)        | 
-|  3  | Stack & Queue                                                         | [pert3.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert3.cpp)                | 
-|  4  | Tree                                                         | [pert4.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert4.cpp)                | 
-|  5  | Graph                                                   | [pert5.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert5.cpp)                | 
-|  2  | Hashing, Disjoint set Class                                 [pert2.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert2.cpp)                | 
-|  3  | Stack & Queue                                                         | [pert3.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert3.cpp)                | 
-|  4  | Tree                                                         | [pert4.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert4.cpp)                | 
-|  5  | Graph                                                   | [pert5.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert5.cpp)                | 
+|  1  | Linked-List                                 | [pert1.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Pert1.cpp)                | 
+|  2  | Double Linked-List                          | [pert2.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert2.cpp)                | 
+|  3  | Stack & Queue                               | [pert3.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert3.cpp)                | 
+|  4  | Tree                                        | [pert4.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert4.cpp)                | 
+|  5  | Graph                                       | [pert5.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert5.cpp)                | 
+|  6  | Hashing, Disjoint set Class                 | [pert2.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert2.cpp)                | 
+|  7  | Stack & Queue                               | [pert3.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert3.cpp)                | 
+|  8  | Tree                                        | [pert4.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert4.cpp)                | 
+|  9  | Graph                                       | [pert5.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert5.cpp)                | 
+
 ## ObjectOrientedProgramming
 | Meeting |                                                          Material                                                         |                                                                                          Solution                                                                                         |
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  1  | Intro to Java                                        | [pert1.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Pert1.cpp)                | 
-|  2  | Syntax, logical operation                                            | [pert2.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert2.cpp)                | 
-|  3  | Array, ArrayList, Vector, exception categories                                                    | [pert3.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert3.cpp)                | 
+|  1  | Intro to Java, Logical Operation                                   | [pert1.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Pert1.cpp)                | 
+|  2  | Array, ArrayList, Vector, Exceptional Handling                     | [pert2.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert2.cpp)                | 
+|  3  | Class object,  method , encapsulation, static,  access modifier    | [pert3.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert3.cpp)                | 
 |  4  | Repetition                                                         | [pert4.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert4.cpp)                | 
 |  5  | Array and Pointer                                                  | [pert5.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert5.cpp)                | 
-|  6  | Polymorphism                                                           | [pert6.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert6.cpp)                | 
-|  7  | overloading, overiding, upcasting, package                                                       | [pert7.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert7.cpp)                | 
-|  8  | Interface & abstract Class                                               | [pert8.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert8.cpp)                | 
-|  9  | Generic , multiple inheritance               | [pert9.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert9.cpp)                | 
-|  10 | Multi Threading Programming                                             | [pert10.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert10.cpp)                | 
-|  11 |                                                  | [pert11.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert11.cpp)                | 
-|  12 | Final Test                                                         | [pert12.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert12.cpp)                | 
+|  6  | MID test                                                           | [pert6.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert6.cpp)                | 
+|  7  | Function                                                           | [pert7.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert7.cpp)                | 
+|  8  | Built-in Function                                                  | [pert8.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert8.cpp)                | 
+|  9  | Structures                                                         | [pert9.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert9.cpp)                | 
+|  10 | Searching and Sorting                                              | [pert10.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert10.cpp)               | 
+|  11 | File Operation                                                     | [pert11.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert11.cpp)               | 
+|  12 | Final Test                                                         | [pert12.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert12.cpp)               | 
