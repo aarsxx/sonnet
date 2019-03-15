@@ -70,14 +70,15 @@
 |  7  | Function                                                           | [pert7.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert7.cpp)                | 
 |  8  | Built-in Function                                                  | [pert8.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert8.cpp)                | 
 |  9  | Structures                                                         | [pert9.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert9.cpp)                | 
-|  10 | Searching and Sorting                                              | [pert10.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert10.cpp)               | 
-|  11 | File Operation                                                     | [pert11.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert11.cpp)               | 
-|  12 | Final Test                                                         | [pert12.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert12.cpp)               | 
+|  10 | Sorting                                                            | [pert10.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Sorting-Basic.cpp)               | 
+|  11 | Searching                                                          | [pert11.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert10.cpp)               | 
+|  12 | File Operation                                                     | [pert12.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert11.cpp)               | 
+|  13 | Final Test                                                         | [pert13.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert12.cpp)               | 
 
 ## DataStructures
 | Meeting |                                                          Material                                                         |                                                                                          Solution                                                                                         |
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  1  | Linked-List                                 | [pert1.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Pert1.cpp)                | 
+|  1  | Single Linked-List                          | [pert1.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/DataStructures/singleLinkedlist.cppp)                | 
 |  2  | Double Linked-List                          | [pert2.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert2.cpp)                | 
 |  3  | Stack & Queue                               | [pert3.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert3.cpp)                | 
 |  4  | Tree                                        | [pert4.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert4.cpp)                | 
