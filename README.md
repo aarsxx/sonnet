@@ -59,7 +59,7 @@
     
     
 ## Algorithm & Basic Programming
-|Meeting|Material|Solution|:---:|:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|           Meeting                        |Material|Solution|:---:|:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |  1  | Input, Output, and Variable                                        | [pert1.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Pert1.cpp)                | 
 |  2  | Aritmethic Operation                                               | [pert2.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert2.cpp)                | 
 |  3  | Iteration                                                          | [pert3.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert3.cpp)                | 
@@ -75,7 +75,7 @@
 |  13 | Exercise2                                                           | [pert6.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert6.cpp)                | 
 
 ## Data Structures
-| Meeting |                                                          Material                                   |                                                                                          Solution                                                                                         |
+| Meeting |                                                          Material                                                         |                                                                                          Solution                                                                                         |
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |  1  | Single Linked-List                          | [singleLinkedList.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/DataStructures/singleLinkedlist.cpp)                | 
 |  2  | Double Linked-List                          | [doubleLinkedList.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/DataStructures/DoubleLinkedList.cpp)                | 
