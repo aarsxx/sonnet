@@ -58,9 +58,8 @@
 </i>
     
     
-## Algorithm
-| Meeting |                                                          Material                                                         |                                                                                          Solution                                                                                         |
-|:---:|:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+## Algorithm & Basic Programming
+|Meeting|Material|Solution|:---:|:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |  1  | Input, Output, and Variable                                        | [pert1.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Pert1.cpp)                | 
 |  2  | Aritmethic Operation                                               | [pert2.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert2.cpp)                | 
 |  3  | Iteration                                                          | [pert3.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert3.cpp)                | 
@@ -69,13 +68,13 @@
 |  6  | Function                                                           | [pert7.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert7.cpp)                | 
 |  7  | Built-in Function                                                    | [pert8.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert8.cpp)                | 
 |  8  | Structures                                                           | [pert9.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert9.cpp)                | 
-|  9 | Sorting                                                               | [pert10.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Sorting-Basic.cpp)               | 
+|  9 | Sorting                                                               | [pert10.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Sorting-Basic.cpp)        | 
 |  10 | Searching                                                            | [pert11.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert10.cpp)               | 
 |  11 | File Operation                                                       | [pert12.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert11.cpp)               | 
 |  12 | Exercise1                                                            | [pert13.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert12.cpp)               | 
 |  13 | Exercise2                                                           | [pert6.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert6.cpp)                | 
 
-## DataStructures
+## Data Structures
 | Meeting |                                                          Material                                   |                                                                                          Solution                                                                                         |
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |  1  | Single Linked-List                          | [singleLinkedList.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/DataStructures/singleLinkedlist.cpp)                | 
@@ -88,7 +87,7 @@
 |  8  |                                             | [pert4.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert4.cpp)                | 
 |  9  |                                             | [pert5.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert5.cpp)                | 
 
-## ObjectOrientedProgramming
+## Object Oriented Programming
 | Meeting |                                                          Material                                                         |                                                                                          Solution                                                                                         |
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |  1  | Intro to Java, Logical Operation                                   | [pert1.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Pert1.cpp)                | 
