@@ -1,11 +1,12 @@
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
-
 <p align="center">
     <a href="https://www.course-net.com">
         <img height=90 src="https://cdn-images-1.medium.com/max/1600/1*Svef7D3qIbPZ0j4YXOjWuw.png">
     </a>
 </p>
-
+[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+[![Download](https://img.shields.io/github/downloads/andikaleonardo/Basic-Programming/total.svg)](https://github.com/andikaleonardo/WWDC-2019-Scholarship-Submissions/releases)
+[![Version](https://img.shields.io/cocoapods/v/JZMultiChoicesCircleButton.svg?style=flat)](http://cocoapods.org/pods/JZMultiChoicesCircleButton)
+[![License](https://img.shields.io/cocoapods/l/JZMultiChoicesCircleButton.svg?style=flat)](http://cocoapods.org/pods/JZMultiChoicesCircleButton)
 # Intro
 <p align="right">
     <i>
