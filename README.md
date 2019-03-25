@@ -6,7 +6,7 @@
 [![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
 [![Download](https://img.shields.io/github/downloads/andikaleonardo/Basic-Programming/total.svg)](https://github.com/andikaleonardo/WWDC-2019-Scholarship-Submissions/releases)
 [![Version](https://img.shields.io/cocoapods/v/JZMultiChoicesCircleButton.svg?style=flat)](http://cocoapods.org/pods/JZMultiChoicesCircleButton)
-[![License](https://img.shields.io/cocoapods/l/JZMultiChoicesCircleButton.svg?style=flat)](http://cocoapods.org/pods/JZMultiChoicesCircleButton)
+
 # Intro
 <p align="right">
     <i>
