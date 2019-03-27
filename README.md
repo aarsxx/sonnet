@@ -12,7 +12,7 @@
 <p>All ▲lgorithms implemented in C , Java</p>
 <a href="https://allalgorithms.com"><img src="https://cdn.abranhe.com/projects/algorithms/badge.svg"></a>
 <a href="https://github.com/abranhe/algorithms/blob/master/license"><img src="https://img.shields.io/github/license/andikaleonardo/algorithms.svg" /></a>
-<a href="https://andikaleonardo.com"><img src="https://github.com/andikaleonardo/WWDC-2019-Scholarship-Submissions/releases"/>
+<a href="https://img.shields.io/cocoapods/p/JZMultiChoicesCircleButton.svg?style=flat"><img src="https://github.com/andikaleonardo/WWDC-2019-Scholarship-Submissions/releases"/>
 </a>
 <a href="https://img.shields.io/github/downloads/andikaleonardo/Basic-Programming/total.svg"><img src="https://img.shields.io/travis/AllAlgorithms/c.svg?label=%E2%96%B2%20style"/>
 </a>
