@@ -1,8 +1,8 @@
 [![Download](https://img.shields.io/github/downloads/andikaleonardo/Basic-Programming/total.svg)](https://github.com/andikaleonardo/WWDC-2019-Scholarship-Submissions/releases)
 [![Version](https://img.shields.io/cocoapods/v/JZMultiChoicesCircleButton.svg?style=flat)](http://cocoapods.org/pods/JZMultiChoicesCircleButton)
 <p align="center">
-    <a href="https://www.course-net.com">
-        <img height=90 src="https://cdn-images-1.medium.com/max/1600/1*Svef7D3qIbPZ0j4YXOjWuw.png">
+    <a href="https://www.andikaleonardo.com">
+        <img height=90 src="https://cdn.poststatus.com/wp-content/uploads/2015/06/code-1116x399.gif">
     </a>
 </p>
 
