@@ -1,15 +1,11 @@
 <div align="center">
 <br>
 <br>
-<img width="270" height="100" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/c@0.0.3/c.svg">
+<img width="270" height="100" src="https://cdn.poststatus.com/wp-content/uploads/2015/06/code-1116x399.gif">
 <br>
 <br>
-    <a href="https://www.andikaleonardo.com">
-        <img height=90 src="https://cdn.poststatus.com/wp-content/uploads/2015/06/code-1116x399.gif">
-    </a>
 <br>
-<br>
-<p>All ▲lgorithms implemented in C , Java</p>
+<p>All ▲lgorithms implemented in C++ , Java</p>
 <a href="https://andikaleonardo.com"><img src="https://cdn.abranhe.com/projects/algorithms/badge.svg"></a>
 <a href="https://github.com/abranhe/algorithms/blob/master/license"><img src="https://img.shields.io/github/license/andikaleonardo/algorithms.svg" /></a>
 <a href="https://img.shields.io/github/downloads/andikaleonardo/Basic-Programming/total.svg"><img src="https://github.com/andikaleonardo/Basic-Programming/releases" /></a>
