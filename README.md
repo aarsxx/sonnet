@@ -1,11 +1,27 @@
 [![Download](https://img.shields.io/github/downloads/andikaleonardo/Basic-Programming/total.svg)](https://github.com/andikaleonardo/WWDC-2019-Scholarship-Submissions/releases)
 [![Version](https://img.shields.io/cocoapods/v/JZMultiChoicesCircleButton.svg?style=flat)](http://cocoapods.org/pods/JZMultiChoicesCircleButton)
-<p align="center">
+
+<div align="center">
+
+<br>
+<br>
+<img width="300" height="170" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/c@0.0.3/c.svg">
+<br>
+<br>
     <a href="https://www.andikaleonardo.com">
         <img height=90 src="https://cdn.poststatus.com/wp-content/uploads/2015/06/code-1116x399.gif">
     </a>
-</p>
-
+<img src="https://cdn.abranhe.com/projects/algorithms/algorithms.svg" width="400px">
+<br>
+<br>
+<p>All ▲lgorithms implemented in C , Java</p>
+<a href="https://allalgorithms.com"><img src="https://cdn.abranhe.com/projects/algorithms/badge.svg"></a>
+<a href="https://github.com/abranhe/algorithms/blob/master/license"><img src="https://img.shields.io/github/license/abranhe/algorithms.svg" /></a>
+<a href="https://travis-ci.org/AllAlgorithms/c"><img src="https://img.shields.io/travis/AllAlgorithms/c.svg?label=%E2%96%B2%20style" /></a>
+<br>
+<br>
+<a href="https://andikaleonardo.com"><code>andikaleonardo.com</code></a>
+</div>
 
 # Intro
 <p align="right">
