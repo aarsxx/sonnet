@@ -1,11 +1,9 @@
 <div align="center">
 <br>
 <br>
-<img width="370" height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/136c1733609335.56b3b3ebd4b0c.png">
+<img width="370" height="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/136c1733609335.56b3b3ebd4b0c.png">
 <br>
-<br>
-<br>
-<p>All ▲lgorithms implemented in C++ , Java</p>
+<p>Basic Programming ▲lgorithms implemented in C++ , Java</p>
 <br>
 <a href="https://andikaleonardo.com"><code>andikaleonardo.com</code></a>
 </div>
