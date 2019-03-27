@@ -1,16 +1,11 @@
 <div align="center">
 <br>
 <br>
-<img width="270" height="100" src="https://cdn.poststatus.com/wp-content/uploads/2015/06/code-1116x399.gif">
+<img width="270" height="100" src="https://www.behance.net/gallery/33609335/Google-Polymer">
 <br>
 <br>
 <br>
 <p>All ▲lgorithms implemented in C++ , Java</p>
-<a href="https://andikaleonardo.com"><img src="https://cdn.abranhe.com/projects/algorithms/badge.svg"></a>
-<a href="https://github.com/abranhe/algorithms/blob/master/license"><img src="https://img.shields.io/github/license/andikaleonardo/algorithms.svg" /></a>
-<a href="https://img.shields.io/github/downloads/andikaleonardo/Basic-Programming/total.svg"><img src="https://github.com/andikaleonardo/Basic-Programming/releases" /></a>
-<a href="https://img.shields.io/cocoapods/v/JZMultiChoicesCircleButton.svg?style=flat"><img src="http://cocoapods.org/pods/JZMultiChoicesCircleButton" /></a>
-<br>
 <br>
 <a href="https://andikaleonardo.com"><code>andikaleonardo.com</code></a>
 </div>
