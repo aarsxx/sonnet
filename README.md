@@ -71,7 +71,6 @@ be precisely defined; the instructions should be unambiguously specified for eac
 to solve. And it should be possible to demonstrate that the algorithm converges with
 just a paper and pencil.
 
-<p align="center">
 | Meeting |                                                          Material                                                         |                                                                                          Solution                                                                                         |
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |  1  | Input, Output, and Variable                                        | [pert1.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Pert1.cpp)                | 
@@ -87,7 +86,7 @@ just a paper and pencil.
 |  11 | File Operation                                                       | [pert12.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert11.cpp)               | 
 |  12 | Exercise1                                                            | [pert13.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert12.cpp)               | 
 |  13 | Exercise2                                                           | [pert6.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert6.cpp)                | 
-</p>
+
 
 ## Data Structures
 
