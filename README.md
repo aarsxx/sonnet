@@ -12,11 +12,11 @@
     </i>
 </p>
 
-* [Intro](#Intro)
-* [Book](#Book)
-* [Algorithm](#Algorithm)
-* [Data Structures](#DataStructures)
-* [Object Oriented Programming](#ObjectOrientedProgramming)
+* [Intro](##Intro)
+* [Book](##Book)
+* [Algorithm](##Algorithm)
+* [Data Structures](##DataStructures)
+* [Object Oriented Programming](##ObjectOrientedProgramming)
 
 <p align="center">
     <i>
@@ -25,16 +25,13 @@
         For Learning Purpose only<br>
     </i>
 </p>
-
-
 <p align="center">
     <b>
        © 2018 Andika Leonardo. All Rights Reserved.
     </b>
 </p>
 
-
-# Book
+## Book
 <p align="center">
     <b>I normally don't read book</b><br>
     but I can recommend this E-book<br>
@@ -57,6 +54,23 @@
     
     
 ## Algorithm & Basic Programming
+What is an algorithm?
+
+Informally, an algorithm is any well-defined computational procedure that takes
+some value, or set of values, as input and produces some value, or set of values, as
+output. An algorithm is thus a sequence of computational steps that transform the
+input into the output.
+
+An algorithm should have three important characteristics to be considered valid:
+
+- **It should be finite**: If your algorithm never ends trying to solve the problem
+it was designed to solve then it is useless
+- **It should have well defined instructions**: Each step of the algorithm has to
+be precisely defined; the instructions should be unambiguously specified for each case.
+- **It should be effective**: The algorithm should solve the problem it was designed
+to solve. And it should be possible to demonstrate that the algorithm converges with
+just a paper and pencil.
+
 | Meeting |                                                          Material                                                         |                                                                                          Solution                                                                                         |
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |  1  | Input, Output, and Variable                                        | [pert1.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Pert1.cpp)                | 
