@@ -16,7 +16,7 @@
 </a>
 <a href="https://img.shields.io/github/downloads/andikaleonardo/Basic-Programming/total.svg"><img src="https://img.shields.io/travis/AllAlgorithms/c.svg?label=%E2%96%B2%20style"/>
 </a>
-<a href="https://img.shields.io/cocoapods/v/JZMultiChoicesCircleButton.svg?style=flat"><img src="http://cocoapods.org/pods/JZMultiChoicesCircleButton/>
+<a href="https://img.shields.io/cocoapods/v/JZMultiChoicesCircleButton.svg?style=flat"><img src="http://cocoapods.org/pods/JZMultiChoicesCircleButton"/>
 </a>
 <br>
 <br>
