@@ -55,6 +55,7 @@
     
 ## Algorithm & Basic Programming
 **What is an algorithm?**
+
 Informally, an algorithm is any well-defined computational procedure that takes
 some value, or set of values, as input and produces some value, or set of values, as
 output. An algorithm is thus a sequence of computational steps that transform the
@@ -69,6 +70,8 @@ be precisely defined; the instructions should be unambiguously specified for eac
 - **It should be effective**: The algorithm should solve the problem it was designed
 to solve. And it should be possible to demonstrate that the algorithm converges with
 just a paper and pencil.
+
+
 
 | Meeting |                                                          Material                                                         |                                                                                          Solution                                                                                         |
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -88,8 +91,11 @@ just a paper and pencil.
 
 
 ## Data Structures
+**What is an Data Structure?**
 
 A data structure is a specialized format for organizing and storing data. General data structure types include the array, the file, the record, the table, the tree, and so on. Any data structure is designed to organize data to suit a specific purpose so that it can be accessed and worked with in appropriate ways. In computer programming, a data structure may be selected or designed to store data for the purpose of working on it with various algorithms.
+
+
 
 | Meeting |                                                          Material                                                         |                                                                                          Solution                                                                                         |
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
