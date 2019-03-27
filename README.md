@@ -3,7 +3,8 @@
 <p>Basic Programming ▲lgorithms implemented in C++ , Java</p>
 <a href="https://andikaleonardo.com"><code>andikaleonardo.com</code></a>
 </div>
-# Intro
+
+# Introduction
 <p align="right">
     <i>
         Everybody in this country should learn to program a computer, because it teaches you how to think.<br>
