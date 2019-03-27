@@ -18,7 +18,7 @@
 * [Data Structures](#DataStructures)
 * [Object Oriented Programming](#ObjectOrientedProgramming)
 
-<p align="right">
+<p align="center">
     <i>
         Solutions are coded using C++<br>
         Languange used are English and Bahasa<br>
