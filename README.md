@@ -12,11 +12,9 @@
 <p>All ▲lgorithms implemented in C , Java</p>
 <a href="https://allalgorithms.com"><img src="https://cdn.abranhe.com/projects/algorithms/badge.svg"></a>
 <a href="https://github.com/abranhe/algorithms/blob/master/license"><img src="https://img.shields.io/github/license/andikaleonardo/algorithms.svg" /></a>
-<a href="https://img.shields.io/cocoapods/p/JZMultiChoicesCircleButton.svg?style=flat"><img src="https://github.com/andikaleonardo/Basic-Programming/releases"/>
+<a href="https://img.shields.io/github/downloads/andikaleonardo/Basic-Programming/total.svg"><img src="https://github.com/andikaleonardo/Basic-Programming/releases"/>
 </a>
-<a href="https://img.shields.io/github/downloads/andikaleonardo/Basic-Programming/total.svg"><img src="https://img.shields.io/travis/AllAlgorithms/c.svg"/>
-</a>
-<a href="https://img.shields.io/powershellgallery/p/:packageName.svg"><img src="http://cocoapods.org/pods/JZMultiChoicesCircleButton"/>
+<a href="https://img.shields.io/cocoapods/v/JZMultiChoicesCircleButton.svg?style=flat"><img src="http://cocoapods.org/pods/JZMultiChoicesCircleButton"/>
 </a>
 <br>
 <br>
