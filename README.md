@@ -1,10 +1,12 @@
 <div align="center">
 <img width="370" height="270" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/136c1733609335.56b3b3ebd4b0c.png">
 <p>Basic Programming ▲lgorithms implemented in C++ , Java</p>
-<br>
 <a href="https://andikaleonardo.com"><code>andikaleonardo.com</code></a>
 </div>
-
+[![Download](https://img.shields.io/github/downloads/andikaleonardo/WWDC-2019-Scholarship-Submissions/total.svg)](https://github.com/andikaleonardo/WWDC-2019-Scholarship-Submissions/releases)
+[![Version](https://img.shields.io/cocoapods/v/JZMultiChoicesCircleButton.svg?style=flat)](http://cocoapods.org/pods/JZMultiChoicesCircleButton)
+[![License](https://img.shields.io/cocoapods/l/JZMultiChoicesCircleButton.svg?style=flat)](http://cocoapods.org/pods/JZMultiChoicesCircleButton)
+[![Platform](https://img.shields.io/cocoapods/p/JZMultiChoicesCircleButton.svg?style=flat)](http://cocoapods.org/pods/JZMultiChoicesCircleButton)
 # Intro
 <p align="right">
     <i>
