@@ -1,8 +1,4 @@
-[![Download](https://img.shields.io/github/downloads/andikaleonardo/Basic-Programming/total.svg)](https://github.com/andikaleonardo/WWDC-2019-Scholarship-Submissions/releases)
-[![Version](https://img.shields.io/cocoapods/v/JZMultiChoicesCircleButton.svg?style=flat)](http://cocoapods.org/pods/JZMultiChoicesCircleButton)
-
 <div align="center">
-
 <br>
 <br>
 <img width="270" height="100" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/c@0.0.3/c.svg">
@@ -16,7 +12,10 @@
 <p>All ▲lgorithms implemented in C , Java</p>
 <a href="https://allalgorithms.com"><img src="https://cdn.abranhe.com/projects/algorithms/badge.svg"></a>
 <a href="https://github.com/abranhe/algorithms/blob/master/license"><img src="https://img.shields.io/github/license/andikaleonardo/algorithms.svg" /></a>
-<a href="https://andikaleonardo.com"><img src="https://img.shields.io/travis/AllAlgorithms/c.svg?label=%E2%96%B2%20style"/></a>
+<a href="https://andikaleonardo.com"><img src="https://img.shields.io/travis/AllAlgorithms/c.svg?label=%E2%96%B2%20style"/>
+</a>
+[![Download](https://img.shields.io/github/downloads/andikaleonardo/Basic-Programming/total.svg)](https://github.com/andikaleonardo/WWDC-2019-Scholarship-Submissions/releases)
+[![Version](https://img.shields.io/cocoapods/v/JZMultiChoicesCircleButton.svg?style=flat)](http://cocoapods.org/pods/JZMultiChoicesCircleButton)
 <br>
 <br>
 <a href="https://andikaleonardo.com"><code>andikaleonardo.com</code></a>
