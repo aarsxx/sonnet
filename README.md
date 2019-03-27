@@ -1,7 +1,7 @@
 <div align="center">
 <img width="370" height="270" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/136c1733609335.56b3b3ebd4b0c.png">
 <p>Basic Programming ▲lgorithms implemented in C++ , Java</p>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
+<a href="https://github.com/andikaleonardo/Basic-Programming/releases"><img src="https://img.shields.io/github/downloads/andikaleonardo/WWDC-2019-Scholarship-Submissions/total.svg" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
