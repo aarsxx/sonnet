@@ -3,10 +3,6 @@
 <p>Basic Programming ▲lgorithms implemented in C++ , Java</p>
 <a href="https://andikaleonardo.com"><code>andikaleonardo.com</code></a>
 </div>
-[![Download](https://img.shields.io/github/downloads/andikaleonardo/WWDC-2019-Scholarship-Submissions/total.svg)](https://github.com/andikaleonardo/WWDC-2019-Scholarship-Submissions/releases)
-[![Version](https://img.shields.io/cocoapods/v/JZMultiChoicesCircleButton.svg?style=flat)](http://cocoapods.org/pods/JZMultiChoicesCircleButton)
-[![License](https://img.shields.io/cocoapods/l/JZMultiChoicesCircleButton.svg?style=flat)](http://cocoapods.org/pods/JZMultiChoicesCircleButton)
-[![Platform](https://img.shields.io/cocoapods/p/JZMultiChoicesCircleButton.svg?style=flat)](http://cocoapods.org/pods/JZMultiChoicesCircleButton)
 # Intro
 <p align="right">
     <i>
