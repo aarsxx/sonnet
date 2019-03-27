@@ -1,7 +1,7 @@
 <div align="center">
 <br>
 <br>
-<img width="270" height="100" src="https://www.behance.net/gallery/33609335/Google-Polymer">
+<img width="370" height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/136c1733609335.56b3b3ebd4b0c.png">
 <br>
 <br>
 <br>
