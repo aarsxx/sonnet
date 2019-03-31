@@ -77,7 +77,7 @@ be precisely defined; the instructions should be unambiguously specified for eac
 to solve. And it should be possible to demonstrate that the algorithm converges with
 just a paper and pencil.
 
-
+### Basic Programming
 
 | Meeting |                                                          Material                                                         |                                                                                          Solution                                                                                         |
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
