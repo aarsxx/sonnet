@@ -109,8 +109,8 @@ A data structure is a specialized format for organizing and storing data. Genera
 |  2  | Double Linked-List                          | [doubleLinkedList.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/DataStructures/DoubleLinkedList.cpp)                | 
 |  3  | Stack                                       | [stack.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/DataStructures/3.Stack.cpp)                | 
 |  4  | Queue                                       | [queue.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/DataStructures/4.queue.cpp)                | 
-|  5  | Binary Search Tree                          | [pert5.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert5.cpp)                | 
-|  6  | Hashing, Disjoint set Class                 | [pert2.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert2.cpp)                | 
+|  5  | Binary Search Tree, AVL Tree                         | [pert5.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert5.cpp)                | 
+|  6  | Hashing, Heap                | [pert2.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert2.cpp)                | 
 |  7  | Graph                                       | [pert3.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert3.cpp)                | 
 |  8  |                                             | [pert4.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert4.cpp)                | 
 |  9  |                                             | [pert5.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert5.cpp)                | 
