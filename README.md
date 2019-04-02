@@ -17,7 +17,6 @@
 * [Book](##Book)
 * [Algorithm](##Algorithm)
 * [Data Structures](##DataStructures)
-* [Object Oriented Programming](##ObjectOrientedProgramming)
 
 <p align="center">
     <i>
@@ -257,11 +256,3 @@ A data structure is a specialized format for organizing and storing data. Genera
 |  8  |                                             | [pert4.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert4.cpp)                | 
 |  9  |                                             | [pert5.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert5.cpp)                | 
 
-## Object Oriented Programming
-| Meeting |                                                          Material                                                         |                                                                                          Solution                                                                                         |
-|:---:|:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  1  | Intro to Java, Logical Operation                                   | [pert1.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Pert1.cpp)                | 
-|  2  | Array, ArrayList, Vector, Exceptional Handling                     | [pert2.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert2.cpp)                | 
-|  3  | Class object,  method , encapsulation, static,  access modifier    | [pert3.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert3.cpp)                | 
-|  4  | Abstraction, Inheritance                                                        | [pert4.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert4.cpp)                | 
-|  5  |                                                   | [pert5.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert5.cpp)                | 
