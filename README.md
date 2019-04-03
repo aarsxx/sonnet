@@ -80,17 +80,14 @@ just a paper and pencil.
 |  3  | Selection                                                            | [pert3.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert3.cpp)                | 
 |  4  | Repetition                                                           | [pert4.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert4.cpp)                | 
 |  5  | Array and Pointer                                                    | [pert5.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert5.cpp)                | 
-|  6  | Function                                                             | [pert7.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert7.cpp)                | 
-|  7  | Built-in Function                                                    | [pert8.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert8.cpp)                | 
-|  8  | Structures                                                           | [pert9.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert9.cpp)                | 
-|  9  | Sorting                                                               | [pert10.cpp](https://github.com/andikaleonardo/The-Algorithms/blob/master/Algorithm/Sorting-Basic.cpp)        | 
-|  10 | Searching                                                            | [pert11.cpp](https://github.com/andikaleonardo/The-Algorithms/blob/master/DataStructures/Searching.c)               | 
-|  11 | File Operation                                                       | [pert12.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert11.cpp)               | 
-|  12 | Exercise1                                                            | [pert13.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert12.cpp)               | 
-|  13 | Exercise2                                                            | [pert6.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert6.cpp)                | 
+|  6  | Function, Built-in Function                                          | [pert6.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert12.cpp)               | 
+|  7  | Structures                                                           | [pert7.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert9.cpp)                | 
+|  8  | Sorting                                                              | [pert8.cpp](https://github.com/andikaleonardo/The-Algorithms/blob/master/Algorithm/Sorting-Basic.cpp)    | 
+|  09 | Searching                                                            | [pert9.cpp](https://github.com/andikaleonardo/The-Algorithms/blob/master/DataStructures/Searching.c)     | 
+|  10 | File Operation                                                       | [pert10.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert11.cpp)               | 
+
 
 ## Sort Algorithms
-
 
 ### Bubble
 ![alt text][bubble-image]
@@ -241,7 +238,6 @@ __Properties__
 **What is an Data Structure?**
 
 A data structure is a specialized format for organizing and storing data. General data structure types include the array, the file, the record, the table, the tree, and so on. Any data structure is designed to organize data to suit a specific purpose so that it can be accessed and worked with in appropriate ways. In computer programming, a data structure may be selected or designed to store data for the purpose of working on it with various algorithms.
-
 
 
 | Meeting |                                                          Material                                                         |                                                                                          Solution                                                                                         |
