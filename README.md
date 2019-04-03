@@ -75,19 +75,19 @@ just a paper and pencil.
 
 | Meeting |                                                          Material                                                         |                                                                                          Solution                                                                                         |
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  1  | Input, Output, and Variable                                        | [pert1.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Pert1.cpp)                | 
-|  2  | Aritmethic Operation                                               | [pert2.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert2.cpp)                | 
-|  3  | Iteration                                                          | [pert3.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert3.cpp)                | 
-|  4  | Repetition                                                         | [pert4.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert4.cpp)                | 
-|  5  | Array and Pointer                                                  | [pert5.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert5.cpp)                | 
-|  6  | Function                                                           | [pert7.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert7.cpp)                | 
+|  1  | Input, Output, and Variable                                          | [pert1.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Pert1.cpp)                | 
+|  2  | Aritmethic Operation                                                 | [pert2.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert2.cpp)                | 
+|  3  | Iteration                                                            | [pert3.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert3.cpp)                | 
+|  4  | Repetition                                                           | [pert4.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert4.cpp)                | 
+|  5  | Array and Pointer                                                    | [pert5.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert5.cpp)                | 
+|  6  | Function                                                             | [pert7.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert7.cpp)                | 
 |  7  | Built-in Function                                                    | [pert8.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert8.cpp)                | 
 |  8  | Structures                                                           | [pert9.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert9.cpp)                | 
-|  9 | Sorting                                                               | [pert10.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Sorting-Basic.cpp)        | 
-|  10 | Searching                                                            | [pert11.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert10.cpp)               | 
+|  9  | Sorting                                                               | [pert10.cpp](https://github.com/andikaleonardo/The-Algorithms/blob/master/Algorithm/Sorting-Basic.cpp)        | 
+|  10 | Searching                                                            | [pert11.cpp](https://github.com/andikaleonardo/The-Algorithms/blob/master/DataStructures/Searching.c)               | 
 |  11 | File Operation                                                       | [pert12.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert11.cpp)               | 
 |  12 | Exercise1                                                            | [pert13.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert12.cpp)               | 
-|  13 | Exercise2                                                           | [pert6.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert6.cpp)                | 
+|  13 | Exercise2                                                            | [pert6.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert6.cpp)                | 
 
 ## Sort Algorithms
 
@@ -248,11 +248,11 @@ A data structure is a specialized format for organizing and storing data. Genera
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |  1  | Single Linked-List                          | [singleLinkedList.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/DataStructures/singleLinkedlist.cpp)                | 
 |  2  | Double Linked-List                          | [doubleLinkedList.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/DataStructures/DoubleLinkedList.cpp)                | 
-|  3  | Stack                                       | [stack.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/DataStructures/3.Stack.cpp)                | 
-|  4  | Queue                                       | [queue.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/DataStructures/4.queue.cpp)                | 
-|  5  | Binary Search Tree, AVL Tree                         | [pert5.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert5.cpp)                | 
-|  6  | Hashing                                     | [pert2.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert2.cpp)                | 
+|  3  | Stack                                       | [stack.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/DataStructures/3.Stack.cpp)         | 
+|  4  | Queue                                       | [queue.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/DataStructures/4.queue.cpp)         | 
+|  5  | Hashing                                     | [pert5.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert5.cpp)                | 
+|  6  | Binary Search Tree                          | [pert2.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert2.cpp)                | 
 |  7  | Graph                                       | [pert3.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert3.cpp)                | 
 |  8  | Heap                                        | [pert4.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert4.cpp)                | 
-|  9  |                                             | [pert5.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert5.cpp)                | 
+|  9  | AVL Tree                                    | [pert5.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert5.cpp)                | 
 
