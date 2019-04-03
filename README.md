@@ -1,6 +1,6 @@
 <div align="center">
 <img width="400" height="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/136c1733609335.56b3b3ebd4b0c.png">
-<p>Basic Programming ▲lgorithms implemented in C++ & Java</p>
+<p>Basic Programming ▲lgorithms implemented in C++</p>
     
 <a href="https://andikaleonardo.com"><code>andikaleonardo.com</code></a>
 </div>
@@ -83,7 +83,7 @@ just a paper and pencil.
 |  6  | Function, Built-in Function                                          | [pert6.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert12.cpp)               | 
 |  7  | Structures                                                           | [pert7.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert9.cpp)                | 
 |  8  | Sorting                                                              | [pert8.cpp](https://github.com/andikaleonardo/The-Algorithms/blob/master/Algorithm/Sorting-Basic.cpp)    | 
-|  09 | Searching                                                            | [pert9.cpp](https://github.com/andikaleonardo/The-Algorithms/blob/master/DataStructures/Searching.c)     | 
+|  9  | Searching                                                            | [pert9.cpp](https://github.com/andikaleonardo/The-Algorithms/blob/master/DataStructures/Searching.c)     | 
 |  10 | File Operation                                                       | [pert10.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert11.cpp)               | 
 
 
