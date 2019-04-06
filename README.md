@@ -2,7 +2,7 @@
 <img width="400" height="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/136c1733609335.56b3b3ebd4b0c.png">
 <p>Basic Programming ▲lgorithms implemented in C++</p>
     
-<a href="https://andikaleonardo.com"><code>andikaleonardo.com</code></a>
+<a href="https://andikaleonardo.com" target="blank"><code>andikaleonardo.com</code></a>
 </div>
 
 # Introduction
