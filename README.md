@@ -246,9 +246,13 @@ A data structure is a specialized format for organizing and storing data. Genera
 |  2  | Double Linked-List                          | [doubleLinkedList.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/DataStructures/DoubleLinkedList.cpp)                | 
 |  3  | Stack                                       | [stack.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/DataStructures/3.Stack.cpp)         | 
 |  4  | Queue                                       | [queue.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/DataStructures/4.queue.cpp)         | 
-|  5  | Hashing                                     | [pert5.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert5.cpp)                | 
-|  6  | Binary Search Tree                          | [pert2.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert2.cpp)                | 
-|  7  | Graph                                       | [pert3.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert3.cpp)                | 
-|  8  | Heap                                        | [pert4.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert4.cpp)                | 
-|  9  | AVL Tree                                    | [pert5.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert5.cpp)                | 
+|  5  | Hashing Linear Probing                      | [LinearProbing.cpp](https://github.com/andikaleonardo/The-Algorithms/blob/master/DataStructures/Hash_LinearProbing.cpp)               | 
+|  5  | Hashing Code Chaining                       | [CodeChaining.cpp](https://github.com/andikaleonardo/The-Algorithms/blob/master/DataStructures/Hash_codeChaining.cpp)                | 
+|  6  | Binary Search Tree                          | [BST.cpp](https://github.com/andikaleonardo/The-Algorithms/blob/master/DataStructures/BST.cpp)      | 
+|  6  | AVL Tree                                    | [AVL.cpp](https://github.com/andikaleonardo/The-Algorithms/blob/master/DataStructures/BST.cpp)      | 
+|  8  | Balanced Binary Tree                        | [pert3.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert3.cpp)                | 
+|  9  | Red Black Tree                              | [pert4.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert4.cpp)                | 
+|  10 | 2-3 Tree                                   | [pert5.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert5.cpp)                | 
+|  11 | B Tree                                      | [pert5.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert5.cpp)                | 
+|  12 | Heap & Tries                                | [pert5.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert5.cpp)                | 
 
