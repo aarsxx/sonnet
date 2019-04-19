@@ -256,4 +256,5 @@ A data structure is a specialized format for organizing and storing data. Genera
 |  10 | 2-3 Tree                                   | [pert5.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert5.cpp)                | 
 |  11 | B Tree                                      | [pert5.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert5.cpp)                | 
 |  12 | Heap & Tries                                | [pert5.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert5.cpp)                | 
+|  13 | Graph                               | [pert5.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert5.cpp)                | 
 
