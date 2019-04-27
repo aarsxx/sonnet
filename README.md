@@ -69,7 +69,7 @@ it was designed to solve then it is useless
 be precisely defined; the instructions should be unambiguously specified for each case.
 - **It should be effective**: The algorithm should solve the problem it was designed
 to solve. And it should be possible to demonstrate that the algorithm converges with
-just a paper and pencil.
+just a paper and pencil. 
 
 ### Basic Programming
 
@@ -108,6 +108,7 @@ __Properties__
 
 From [Wikipedia][insertion-wiki]: Insertion sort is a simple sorting algorithm that builds the final sorted array (or list) one item at a time. It is much less efficient on large lists than more advanced algorithms such as quicksort, heapsort, or merge sort. 
 In the figure, each bar represents an element of an array that needs to be sorted. What happens at the first intersection of the top most and second top most bars is to swap these elements, represented by bars, because the second element has a higher precedence than the first element does. By repeating this method, insertion sort completes sorting.
+
 
 __Properties__
 * Worst case performance    O(n^2)
