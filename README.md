@@ -259,3 +259,77 @@ A data structure is a specialized format for organizing and storing data. Genera
 |  12 | Heap & Tries                                | [pert5.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert5.cpp)                | 
 |  13 | Graph                               | [pert5.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/pert5.cpp)                | 
 
+
+
+##### View the algorithm in [action][shell-toptal]
+
+[bubble-toptal]: https://www.toptal.com/developers/sorting-algorithms/bubble-sort
+[bubble-wiki]: https://en.wikipedia.org/wiki/Bubble_sort
+[bubble-image]: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Bubblesort-edited-color.svg/220px-Bubblesort-edited-color.svg.png "Bubble Sort"
+
+[insertion-toptal]: https://www.toptal.com/developers/sorting-algorithms/insertion-sort
+[insertion-wiki]: https://en.wikipedia.org/wiki/Insertion_sort
+[insertion-image]: https://upload.wikimedia.org/wikipedia/commons/7/7e/Insertionsort-edited.png "Insertion Sort"
+
+[quick-toptal]: https://www.toptal.com/developers/sorting-algorithms/quick-sort
+[quick-wiki]: https://en.wikipedia.org/wiki/Quicksort
+[quick-image]: https://upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif "Quick Sort"
+
+[merge-toptal]: https://www.toptal.com/developers/sorting-algorithms/merge-sort
+[merge-wiki]: https://en.wikipedia.org/wiki/Merge_sort
+[merge-image]: https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif "Merge Sort"
+
+[selection-toptal]: https://www.toptal.com/developers/sorting-algorithms/selection-sort
+[selection-wiki]: https://en.wikipedia.org/wiki/Selection_sort
+[selection-image]: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Selection_sort_animation.gif/250px-Selection_sort_animation.gif "Selection Sort Sort"
+
+[shell-toptal]: https://www.toptal.com/developers/sorting-algorithms/shell-sort
+[shell-wiki]: https://en.wikipedia.org/wiki/Shellsort
+[shell-image]: https://upload.wikimedia.org/wikipedia/commons/d/d8/Sorting_shellsort_anim.gif "Shell Sort"
+
+[linear-wiki]: https://en.wikipedia.org/wiki/Linear_search
+[linear-image]: http://www.tutorialspoint.com/data_structures_algorithms/images/linear_search.gif
+
+[binary-wiki]: https://en.wikipedia.org/wiki/Binary_search_algorithm
+[binary-image]: https://upload.wikimedia.org/wikipedia/commons/f/f7/Binary_search_into_array.png
+
+
+--------------------------------------------------------------------
+## Links to the rest of the algorithms
+
+Conversions          |                                          Dynamic Programming   |Ciphers|Miscellaneous|
+-----------          |----------------------------------------------------------------|-------|-------------|
+[Any Base to Any Base](Conversions/AnyBaseToAnyBase.java)| [Coin Change](Dynamic%20Programming/CoinChange.java)|[Caesar](ciphers/Caesar.java)|[Heap Sort](misc/heap_sort.java)|
+[Any Base to Decimal](Conversions/AnyBaseToDecimal.java)|[Egg Dropping](Dynamic%20Programming/EggDropping.java)|[Columnar Transposition Cipher](ciphers/ColumnarTranspositionCipher.java)|[Palindromic Prime Checker](misc/PalindromicPrime.java)|
+[Binary to Decimal](Conversions/BinaryToDecimal.java)|[Fibonacci](Dynamic%20Programming/Fibonacci.java)|[RSA](ciphers/RSA.java)|More soon...|
+[Binary to HexaDecimal](Conversions/BinaryToHexadecimal.java)|[Kadane Algorithm](Dynamic%20Programming/KadaneAlgorithm.java)|more coming soon...|
+[Binary to Octal](Conversions/BinaryToOctal.java)|[Knapsack](Dynamic%20Programming/Knapsack.java)|
+[Decimal To Any Base](Conversions/DecimalToAnyBase.java)|[Longest Common Subsequence](Dynamic%20Programming/LongestCommonSubsequence.java)|
+[Decimal To Binary](Conversions/DecimalToBinary.java)|[Longest Increasing Subsequence](Dynamic%20Programming/LongestIncreasingSubsequence.java)|
+[Decimal To Hexadecimal](Conversions/DecimalToHexaDecimal.java)|[Rod Cutting](Dynamic%20Programming/RodCutting.java)|
+and much more...|                                                    and more...|
+
+### Data Structures
+Graphs|Heaps|Lists|Queues|
+------|-----|-----|------|
+[BFS](DataStructures/Graphs/BFS.java)|[Empty Heap Exception](DataStructures/Heaps/EmptyHeapException.java)|[Circle Linked List](DataStructures/Lists/CircleLinkedList.java)|[Generic Array List Queue](DataStructures/Queues/GenericArrayListQueue.java)|
+[DFS](DataStructures/Graphs/DFS.java)|[Heap](DataStructures/Heaps/Heap.java)|[Doubly Linked List](DataStructures/Lists/DoublyLinkedList.java)|[Queues](DataStructures/Queues/Queues.java)|
+[Graphs](DataStructures/Graphs/Graphs.java)|[Heap Element](DataStructures/Heaps/HeapElement.java)|[Singly Linked List](DataStructures/Lists/SinglyLinkedList.java)|
+[Kruskals Algorithm](DataStructures/Graphs/KruskalsAlgorithm.java)|[Max Heap](DataStructures/Heaps/MaxHeap.java)|
+[CursorLinkedList](DataStructures/Lists/CursorLinkedList.java)|
+[Matrix Graphs](DataStructures/Graphs/MatrixGraphs.java)|[Min Heap](DataStructures/Heaps/MinHeap.java)|
+[PrimMST](DataStructures/Graphs/PrimMST.java)|
+
+Stacks|Trees|
+------|-----|
+[Node Stack](DataStructures/Stacks/NodeStack.java)|[AVL Tree](DataStructures/Trees/AVLTree.java)|
+[Stack of Linked List](DataStructures/Stacks/StackOfLinkedList.java)|[Binary Tree](DataStructures/Trees/BinaryTree.java)|
+[Array Stack](DataStructures/Stacks/StackArray.java)|And much more...|
+[ArrayList Stack](DataStructures/Stacks/StackArrayList.java)||
+
+* [Bags](DataStructures/Bags/Bag.java)
+* [Buffer](DataStructures/Buffers/CircularBuffer.java)
+* [HashMap](DataStructures/HashMap/Hashing/HashMap.java)
+* [Matrix](DataStructures/Matrix/Matrix.java)
+
+
