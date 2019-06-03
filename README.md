@@ -4,7 +4,6 @@
     
 <a href="https://andikaleonardo.com" target="blank"><code>andikaleonardo.com</code></a>
 </div>
-
 # Introduction
 <p align="right">
     <i>
@@ -69,10 +68,10 @@ it was designed to solve then it is useless
 be precisely defined; the instructions should be unambiguously specified for each case.
 - **It should be effective**: The algorithm should solve the problem it was designed
 to solve. And it should be possible to demonstrate that the algorithm converges with
-just a paper and pencil. 
+just a paper and pencil.
 
 ### Basic Programming
-
+asd
 | Meeting |                                                          Material                                                         |                                                                                          Solution                                                                                         |
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |  1  | Input, Output, and Variable                                          | [pert1.cpp](https://github.com/andikaleonardo/Course-Net/blob/master/Algorithm/Pert1.cpp)                | 
