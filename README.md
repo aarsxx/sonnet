@@ -1,17 +1,17 @@
-```console
-██╗  ██╗ █████╗  ██████╗ ███████╗
-██║ ██╔╝██╔══██╗██╔════╝ ██╔════╝
-█████╔╝ ███████║██║  ███╗███████╗
-██╔═██╗ ██╔══██║██║   ██║╚════██║
-██║  ██╗██║  ██║╚██████╔╝███████║
-╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
-```
-![github repo badge](https://img.shields.io/badge/Language-Rust-181717?color=red)
+# Kageかげ
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B1Z3IGW)
 
-## Overview
-Kage is a simple authentication server built using Rust and Axum. It provides basic authentication functionalities such as user registration, login, and password reset. The project uses Redis for storing user data and JSON Web Tokens (JWT) for managing sessions.
+**kage** — is the authentication and authorization system BuzzFeed developed to provide a secure, single sign-on experience
+
+It depends on Google as its authoritative OAuth2 provider, and authenticates
+users against a specific email domain. Further authorization based on Google
+Group membership can be required on a per-upstream basis.
+
+The main idea behind **sso** is a "double OAuth2" flow, where `kage-auth` is the
+OAuth2 provider for `kage-proxy` and Google is the OAuth2 provider for `kage-auth`.
+
+[kage](https://github.com/andikaleonardo/kage) is built on top of Bitly’s open source [oauth2_proxy](https://github.com/bitly/oauth2_proxy)
 
 ## Project Structure
 ```console
@@ -87,8 +87,23 @@ Run the project:
 ```sh
 cargo run
 ```
-Contributing
-============
 
-This is a an open-source project. We'll be delighted to receive your
-feedback in the form of issues and pull requests.
+## Contributing
+
+🎈 Thanks for your help improving the project! We are so happy to have
+you! We have a [contributing guide][contributing] to help you get involved in the
+`kage` project.
+
+## License
+
+This project is licensed under the [MIT license][license].
+
+### Contribution
+
+Unless you explicitly state otherwise, any contribution intentionally submitted
+for inclusion in `kage` by you, shall be licensed as MIT, without any
+additional terms or conditions.
+
+
+[contributing]: https://github.com/tokio-rs/axum/blob/main/CONTRIBUTING.md
+[license]: https://github.com/tokio-rs/axum/blob/main/axum/LICENSE
