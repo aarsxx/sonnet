@@ -1,10 +1,19 @@
 use jsonwebtoken::{encode, Header, EncodingKey};
+use serde::{Serialize, Deserialize};
 
 pub fn generate_token(user_id: u64, username: &str) -> String {
-    let header = Header::default();
-    let secret_key = "your_secret_key_here".as_ref(); // Replace with your actual secret key
-    let key = EncodingKey::from_secret(secret_key);
-    let claims = (user_id, username);
+    let claims = Claims {
+        user_id,
+        username: username.to_owned(),
+    };
 
-    encode(&header, &claimss, &key).unwrap()
+    let secret_key = std::env::var("SECRET_KEY").expect("SECRET_KEY not set in .env");
+    encode(&Header::default(), &claims, &EncodingKey::from_secret(secret_key.as_ref()))
+        .expect("Failed to generate token")
+}
+
+#[derive(Debug, Serialize, Deserialize)]
+struct Claims {
+    user_id: u64,
+    username: String,
 }
