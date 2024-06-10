@@ -9,3 +9,4 @@ impl IntoResponse for AuthRedirect {
         Redirect::temporary("/login").into_response()
     }
 }
+

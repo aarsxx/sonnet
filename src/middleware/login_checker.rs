@@ -1,19 +1,17 @@
-use axum::{middleware::Next, RequestPartsExt};
-use axum_extra::{headers::Cookie, typed_header::TypedHeaderRejectionReason, TypedHeader};
-use http::{header, request::Parts};
+use axum::extract::{Request, State};
+use axum::middleware::Next;
+use axum::response::IntoResponse;
+use axum_extra::{headers::Cookie, TypedHeader};
+use redis::{Client, Commands};
 
-use super::AuthRedirect;
+use crate::error::AuthRedirect;
 
-async fn check_session(parts: &mut Parts, next: &mut Next) -> Result<(), AuthRedirect> {
-    let cookie = parts
-        .extract::<TypedHeader<Cookie>>()
-        .await
-        .map_err(|e| match *e.name() {
-            header::COOKIE => match e.reason() {
-                TypedHeaderRejectionReason::Missing => AuthRedirect,
-                _ => panic!("unexpected error getting Cookie header(s): {e}"),
-            },
-            _ => panic!("unexpected error getting cookies: {e}"),
-        })?;
-    Ok(())
+
+pub async fn check_session(State(mut client): State<Client>, TypedHeader(cookie): TypedHeader<Cookie>, request: Request, next: Next) -> Result<impl IntoResponse, AuthRedirect> {
+    let session_id = cookie.get("session_id").ok_or(AuthRedirect)?;
+    if !client.exists::<&str, bool>(session_id).is_ok() {
+        return Err(AuthRedirect);
+    }
+
+    Ok(next.run(request).await)
 }

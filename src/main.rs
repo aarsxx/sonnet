@@ -3,6 +3,7 @@ use axum::{middleware, Router};
 use tokio::net::TcpListener;
 mod error;
 mod middleware;
+mod user;
 
 #[tokio::main]
 async fn main() {
