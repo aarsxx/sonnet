@@ -6,3 +6,12 @@ edition = "2021"
 [dependencies]
 serde = "1.0"
 serde_derive = "1.0"
+tracing-subscriber = { version = "0" }
+tracing = { version = "0" }
+tokio = { version = "1", features = ["full"] }
+axum = { version = "0" }
+axum-extra = { version = "0", features = ["typed-header"] }
+http = { version = "1" }
+anyhow = { version = "1" }
+redis = "0"
+sea-orm = { version = "0", features = ["sqlx-mysql", "runtime-tokio", "macros"]}
