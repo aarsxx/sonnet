@@ -1,19 +1,27 @@
-# Kageかげ
+<pre align="center">
+    __ __ ___   ____________
+   / //_//   | / ____/ ____/
+  / ,<  / /| |/ / __/ __/   
+ / /| |/ ___ / /_/ / /___   
+/_/ |_/_/  |_\____/_____/   
+</pre>
 
+<h4 align="center"> authentication and authorization system developed to provide a secure, single sign-on experience </h4>
+
+<div align="center">
+            
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B1Z3IGW)
+</div>
 
-**kage** — is the authentication and authorization system BuzzFeed developed to provide a secure, single sign-on experience
+<div align="center">
+            
+The idea behind **kage** is a "double OAuth2" flow, where `kage-auth` is the OAuth2 provider \
+for `kage-proxy` and Google is the OAuth2 provider for `kage-auth`.
 
-It depends on Google as its authoritative OAuth2 provider, and authenticates
-users against a specific email domain. Further authorization based on Google
-Group membership can be required on a per-upstream basis.
+[Kage](https://github.com/andikaleonardo/kage) is built on top of Bitly’s open source [oauth2_proxy](https://github.com/bitly/oauth2_proxy)
+</div>
 
-The main idea behind **sso** is a "double OAuth2" flow, where `kage-auth` is the
-OAuth2 provider for `kage-proxy` and Google is the OAuth2 provider for `kage-auth`.
-
-[kage](https://github.com/andikaleonardo/kage) is built on top of Bitly’s open source [oauth2_proxy](https://github.com/bitly/oauth2_proxy)
-
-## Project Structure
+## Structure
 ```console
 kage/
 ├── Cargo.toml
@@ -28,7 +36,7 @@ kage/
 ├── .env
 ```
 
-## Pattern
+## Architect
 ```console
             +---------------------+
             |        Client       |
@@ -105,5 +113,5 @@ for inclusion in `kage` by you, shall be licensed as MIT, without any
 additional terms or conditions.
 
 
-[contributing]: https://github.com/tokio-rs/axum/blob/main/CONTRIBUTING.md
-[license]: https://github.com/tokio-rs/axum/blob/main/axum/LICENSE
+[contributing]: https://github.com/andikaleonardo/kage/blob/main/CONTRIBUTING.md
+[license]: https://github.com/andikaleonardo/kage/blob/main//LICENSE
