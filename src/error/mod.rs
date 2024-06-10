@@ -13,8 +13,8 @@ impl IntoResponse for AppError {
 }
 
 impl<E> From<E> for AppError
-    where
-        E: Into<anyhow::Error>,
+where
+    E: Into<anyhow::Error>,
 {
     fn from(error: E) -> Self {
         Self(error.into())
