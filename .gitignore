@@ -4,3 +4,8 @@ target
 .env
 .vscode
 .idea
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
