@@ -1,8 +1,10 @@
 [package]
-name = "kage"
+name = "Kage"
+description = "Web SSO in Rust"
 version = "0.1.0"
 edition = "2021"
 authors = ["ARSX"]
+repository = "https://github.com/andikaleonardo/kage"
 
 [dependencies]
 tracing-subscriber = "0.3"

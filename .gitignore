@@ -9,3 +9,4 @@ target
 *.dll
 *.so
 *.dylib
+*.cargo.lock
