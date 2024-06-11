@@ -1,10 +1,8 @@
-<pre align="center">
-    __ __ ___   ____________
-   / //_//   | / ____/ ____/
-  / ,<  / /| |/ / __/ __/   
- / /| |/ ___ / /_/ / /___   
-/_/ |_/_/  |_\____/_____/   
-</pre>
+<h1 align="center">
+
+<img src="https://hackmd.io/_uploads/HygBAZISA.png" alt="kage" style="width: 100px; margin: 0;"/>  
+
+</h1>
 
 <h4 align="center"> authentication and authorization system developed to provide a secure, single sign-on experience </h4>
 
