@@ -9,8 +9,8 @@
 <h4 align="center"> authentication and authorization system developed to provide a secure, single sign-on experience </h4>
 
 <div align="center">
-            
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B1Z3IGW)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/andikaleonardo)
 </div>
 
 <div align="center">
