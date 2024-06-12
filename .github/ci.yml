@@ -1,0 +1,32 @@
+
+### .github/workflows/ci.yml
+```yaml
+name: CI
+
+on:
+push:
+branches:
+- main
+pull_request:
+branches:
+- main
+
+jobs:
+build:
+
+runs-on: ubuntu-latest
+
+steps:
+- name: Checkout code
+uses: actions/checkout@v2
+
+- name: Set up Rust
+uses: actions-rs/toolchain@v1
+with:
+toolchain: stable
+
+- name: Build
+run: cargo build --verbose
+
+- name: Run tests
+run: cargo test --verbose

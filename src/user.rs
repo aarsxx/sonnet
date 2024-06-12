@@ -1,3 +1,5 @@
+mod app;
+
 use crate::db::Database;
 use crate::token::generate_token;
 
