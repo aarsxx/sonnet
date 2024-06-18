@@ -1,7 +1,5 @@
 <h1 align="center">
-
-<img src="https://hackmd.io/_uploads/HygBAZISA.png" alt="kage" style="width: 100px; margin: 0;"/>  
-
+🌞 Solar
 </h1>
 
 <h4 align="center"> authentication and authorization system developed to provide a secure, single sign-on experience </h4>
@@ -13,10 +11,10 @@
 
 <div align="center">
             
-The idea behind **kage** is a "double OAuth2" flow, where `kage-auth` is the OAuth2 provider \
-for `kage-proxy` and Google is the OAuth2 provider for `kage-auth`.
+The idea behind **kage** is a "double OAuth2" flow, where `solar-auth` is the OAuth2 provider \
+for `solar-proxy` and Google is the OAuth2 provider for `solar-auth`.
 
-[Kage](https://github.com/andikaleonardo/kage) is built on top of Bitly’s open source [oauth2_proxy](https://github.com/bitly/oauth2_proxy)
+[Kage](https://github.com/andikaleonardo/solar) is built on top of Bitly’s open source [oauth2_proxy](https://github.com/bitly/oauth2_proxy)
 </div>
 
 ## Structure
