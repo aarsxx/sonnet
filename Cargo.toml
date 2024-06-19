@@ -16,5 +16,5 @@ http = "0.2"
 anyhow = "1.0"
 redis = "0.24.0"
 dotenv = "0.15.0"
-jsonwebtoken = "8.1.0"
+jsonwebtoken = "9.3.0"
 serde = { version = "1.0", features = ["derive"] }
