@@ -1,21 +1,11 @@
-<h1 align="center">
-ONE
-</h1>
+# <img src="_assets/icon.png" width="20"> ONE 
 
-<h4 align="center"> authentication and authorization system developed to provide a secure, single sign-on experience </h4>
+> authentication and authorization system developed to provide a secure, single sign-on experience </h4>
 
-<div align="center">
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/andikaleonardo)
-</div>
-
-<div align="center">
-            
 The idea behind **one** is a "double OAuth2" flow, where `one-auth` is the OAuth2 provider \
 for `one-proxy` and Google is the OAuth2 provider for `one-auth`.
 
 [one](https://github.com/andikaleonardo/solar) is built on top of Bitly’s open source [oauth2_proxy](https://github.com/bitly/oauth2_proxy)
-</div>
 
 ## Structure
 ```console
