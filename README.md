@@ -1,5 +1,5 @@
 <h1 align="center">
-🌞 Solar
+ONE
 </h1>
 
 <h4 align="center"> authentication and authorization system developed to provide a secure, single sign-on experience </h4>
@@ -11,10 +11,10 @@
 
 <div align="center">
             
-The idea behind **kage** is a "double OAuth2" flow, where `solar-auth` is the OAuth2 provider \
-for `solar-proxy` and Google is the OAuth2 provider for `solar-auth`.
+The idea behind **one** is a "double OAuth2" flow, where `one-auth` is the OAuth2 provider \
+for `one-proxy` and Google is the OAuth2 provider for `one-auth`.
 
-[Kage](https://github.com/andikaleonardo/solar) is built on top of Bitly’s open source [oauth2_proxy](https://github.com/bitly/oauth2_proxy)
+[one](https://github.com/andikaleonardo/solar) is built on top of Bitly’s open source [oauth2_proxy](https://github.com/bitly/oauth2_proxy)
 </div>
 
 ## Structure
@@ -96,7 +96,7 @@ cargo run
 
 🎈 Thanks for your help improving the project! We are so happy to have
 you! We have a [contributing guide][contributing] to help you get involved in the
-`kage` project.
+`one` project.
 
 ## License
 
