@@ -10,3 +10,8 @@ updates:
     rebase-strategy: "auto"
     reviewers:
       - "andikaleonardo"
+
+  - package-ecosystem: "github-action`s"
+    directory: "/"
+    schedule:
+      interval: "weekly"
