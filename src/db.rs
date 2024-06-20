@@ -1,33 +1,60 @@
-use redis::AsyncCommands;
-use std::sync::Arc;
-use tokio::sync::Mutex;
+//! Base64 related utilities like custom engines for specific encodings/decodings.
 
-#[derive(Clone)]
-pub struct Database {
-    pub con: Arc<Mutex<redis::aio::Connection>>,
+use crate::result::{Error, Result};
+use base64::{
+    alphabet,
+    engine::{self, general_purpose},
+    Engine,
+};
+
+/// A URL-safe implementation of [`base64::engine::Engine`] without padding.
+pub const B64_CUSTOM_ENGINE: engine::GeneralPurpose =
+    engine::GeneralPurpose::new(&alphabet::URL_SAFE, general_purpose::NO_PAD);
+
+/// Decodes a base64 encoded string.
+///
+/// # Arguments
+///
+/// * `s` - A base64 encoded string slice.
+///
+/// # Returns
+///
+/// * `Result<String>` - The decoded string or an error if decoding fails.
+pub fn decode_str(s: &str) -> Result<String> {
+    decode_base64(s).and_then(convert_to_utf8_string)
 }
 
-impl Database {
-    pub async fn new(redis_url: &str) -> Result<Self, redis::RedisError> {
-        let client = redis::Client::open(redis_url)?;
-        let con = client.get_async_connection().await?;
-        Ok(Database {
-            con: Arc::new(Mutex::new(con)),
-        })
-    }
+/// Helper function to decode a base64 string.
+///
+/// # Arguments
+///
+/// * `s` - A base64 encoded string slice.
+///
+/// # Returns
+///
+/// * `Result<Vec<u8>>` - The decoded bytes or an error if decoding fails.
+fn decode_base64(s: &str) -> Result<Vec<u8>> {
+    B64_CUSTOM_ENGINE.decode(s).map_err(|err| {
+        warn!(error = err.to_string(), "Error decoding base64 string");
+        Error::Unknown
+    })
+}
 
-    pub async fn store_user(&self, username: &str, password: &str) -> Result<(), redis::RedisError> {
-        let mut con = self.con.lock().await;
-        con.set(username, password).await
-    }
-
-    pub async fn retrieve_user(&self, username: &str) -> Option<String> {
-        let mut con = self.con.lock().await;
-        con.get(username).await.ok()
-    }
-
-    pub async fn update_password(&self, username: &str, new_password: &str) -> Result<(), redis::RedisError> {
-        let mut con = self.con.lock().await;
-        con.set(username, new_password).await
-    }
+/// Helper function to convert a byte vector to a UTF-8 string.
+///
+/// # Arguments
+///
+/// * `bytes` - A vector of bytes.
+///
+/// # Returns
+///
+/// * `Result<String>` - The decoded string or an error if conversion fails.
+fn convert_to_utf8_string(bytes: Vec<u8>) -> Result<String> {
+    String::from_utf8(bytes).map_err(|err| {
+        warn!(
+            error = err.to_string(),
+            "Error converting base64 decoded data to string"
+        );
+        Error::Unknown
+    })
 }
