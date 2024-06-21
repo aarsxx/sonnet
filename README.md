@@ -1,4 +1,4 @@
-# <img src="_assets/icon.png" width="20"> One 
+# <img src="_assets/icon.png" width="20"> One SSO 
 
 > authentication and authorization system developed to provide a secure, single sign-on experience </h4>
 
