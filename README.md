@@ -1,11 +1,11 @@
-# <img src="_assets/icon.png" width="20"> One SSO 
+# <img src="_assets/icon.png" width="20"> FUTR
 
 > authentication and authorization system developed to provide a secure, single sign-on experience </h4>
 
-The idea behind **one** is a "double OAuth2" flow, where `one-auth` is the OAuth2 provider \
-for `one-proxy` and Google is the OAuth2 provider for `one-auth`.
+The idea behind **one** is a "double OAuth2" flow, where `futr-auth` is the OAuth2 provider \
+for `futr-proxy` and Google is the OAuth2 provider for `futr-auth`.
 
-[one](https://github.com/andikaleonardo/solar) is built on top of Bitly’s open source [oauth2_proxy](https://github.com/bitly/oauth2_proxy)
+[one](https://github.com/andikaleonardo/futr) is built on top of Bitly’s open source [oauth2_proxy](https://github.com/bitly/oauth2_proxy)
 
 ## Structure
 ```console
@@ -95,9 +95,9 @@ This project is licensed under the [MIT license][license].
 ### Contribution
 
 Unless you explicitly state otherwise, any contribution intentionally submitted
-for inclusion in `kage` by you, shall be licensed as MIT, without any
+for inclusion in `futr` by you, shall be licensed as MIT, without any
 additional terms or conditions.
 
 
-[contributing]: https://github.com/andikaleonardo/kage/blob/main/CONTRIBUTING.md
-[license]: https://github.com/andikaleonardo/kage/blob/main//LICENSE
+[contributing]: https://github.com/andikaleonardo/futr/blob/main/CONTRIBUTING.md
+[license]: https://github.com/andikaleonardo/futr/blob/main//LICENSE
