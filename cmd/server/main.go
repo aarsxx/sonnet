@@ -1,33 +1,34 @@
 package main
 
 import (
-	"github.com/gorilla/mux"
-	"gotter/internal/handlers"
 	"log"
-	"net/http"
-	"otter/configs"
-	"otter/internal/db"
-	"otter/internal/services"
+	"os"
+	"otter/config"
+	"otter/internal/adapters/api"
+	"otter/internal/adapters/db/postgres"
+	"otter/internal/adapters/db/redis"
+	"otter/internal/adapters/email"
+	"otter/internal/core/services"
 )
 
 func main() {
-	config := configs.LoadConfig()
+	config.LoadConfig()
+	db := postgres.NewPostgresDB(os.Getenv("DATABASE_URL"))
+	redisClient := redis.NewRedisClient(os.Getenv("REDIS_URL"))
+	emailService := email.NewSMTPService(
+		os.Getenv("SMTP_HOST"),
+		os.Getenv("SMTP_PORT"),
+		os.Getenv("SMTP_USERNAME"),
+		os.Getenv("SMTP_PASSWORD"),
+	)
 
-	dbConn, err := db.NewDBConnection(config.PostgresDSN)
-	if err != nil {
-		log.Fatalf("Could not connect to the database: %v", err)
-	}
+	userRepo := postgres.NewUserRepository(db)
+	sessionRepo := redis.NewSessionRepository(redisClient)
 
-	userService := services.NewUserService(dbConn)
-	resetService := services.NewResetService(dbConn)
-	deleteService := services.NewDeleteService(dbConn)
-	totpService := services.NewTOTPService(dbConn)
-	loginService := services.NewLoginService(dbConn, config.JwtSecret, config.TokenTimeout)
-	logoutService := services.NewLogoutService(dbConn)
+	authService := services.NewAuthService(userRepo, sessionRepo, emailService)
+	loginService := services.NewLoginService(userRepo, sessionRepo)
+	logoutService := services.NewLogoutService(sessionRepo)
 
-	r := mux.NewRouter()
-	handlers.RegisterHandlers(r, userService, resetService, deleteService, totpService, loginService, logoutService)
-
-	log.Printf("Server starting on %handlers:%handlers\n", config.ServiceAddr, config.ServicePort)
-	log.Fatal(http.ListenAndServe(config.ServiceAddr+":"+config.ServicePort, r))
+	router := api.NewRouter(authService, loginService, logoutService)
+	log.Fatal(router.Run(":8000"))
 }
