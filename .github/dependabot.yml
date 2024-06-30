@@ -11,7 +11,7 @@ updates:
     reviewers:
       - "andikaleonardo"
 
-  - package-ecosystem: "github-action`s"
+  - package-ecosystem: "github-action`handlers"
     directory: "/"
     schedule:
       interval: "weekly"
