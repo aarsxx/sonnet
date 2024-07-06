@@ -1,11 +1,11 @@
-# <img src="_assets/icon.png" width="20"> FUTR
+# <img src="_assets/icon.png" width="20"> vault
 
 > authentication and authorization system developed to provide a secure, single sign-on experience </h4>
 
-The idea behind **one** is a "double OAuth2" flow, where `futr-auth` is the OAuth2 provider \
-for `futr-proxy` and Google is the OAuth2 provider for `futr-auth`.
+The idea behind **one** is a "double OAuth2" flow, where `vault-auth` is the OAuth2 provider \
+for `vault-proxy` and Google is the OAuth2 provider for `vault-auth`.
 
-[one](https://github.com/andikaleonardo/futr) is built on top of Bitly’s open source [oauth2_proxy](https://github.com/bitly/oauth2_proxy)
+[one](https://github.com/andikaleonardo/vault) is built on top of Bitly’s open source [oauth2_proxy](https://github.com/bitly/oauth2_proxy)
 
 ## Structure
 ```console
@@ -99,5 +99,5 @@ for inclusion in `futr` by you, shall be licensed as MIT, without any
 additional terms or conditions.
 
 
-[contributing]: https://github.com/andikaleonardo/futr/blob/main/CONTRIBUTING.md
-[license]: https://github.com/andikaleonardo/futr/blob/main//LICENSE
+[contributing]: https://github.com/aarsxx/vault/blob/main/CONTRIBUTING.md
+[license]: https://github.com/aarsxx/vault/blob/main//LICENSE
