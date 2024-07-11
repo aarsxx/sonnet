@@ -2,52 +2,10 @@
 
 > authentication and authorization system developed to provide a secure, single sign-on experience </h4>
 
-The idea behind **one** is a "double OAuth2" flow, where `vault-auth` is the OAuth2 provider \
+The idea behind **vault** is a "double OAuth2" flow, where `vault-auth` is the OAuth2 provider \
 for `vault-proxy` and Google is the OAuth2 provider for `vault-auth`.
 
-[one](https://github.com/andikaleonardo/vault) is built on top of Bitly’s open source [oauth2_proxy](https://github.com/bitly/oauth2_proxy)
-
-## Structure
-```console
-kage/
-├── Cargo.toml
-├── src/
-│   ├── main.rs
-│   ├── server.rs
-│   ├── handler.rs
-│   ├── user.rs
-│   ├── db.rs
-│   ├── token.rs
-│   ├── error.rs
-├── .env
-```
-
-## Architect
-```console
-            +---------------------+
-            |        Client       |
-            +----------+----------+
-                       |
-                       | HTTP Requests
-                       v
-            +----------+----------+
-            |    HTTP Server      |
-            +----------+----------+
-                       |
-                       | Request Handling
-                       v
-            +----------+----------+
-            |   Request Handler   |
-            +----------+----------+
-                       |
-                       | Business Logic
-                       v
-   +-----------+--------------+-----------+
-   |    Authentication          Database  |
-   |    Middleware              (Redis)   |
-   +--------------------------------------+
-
-```
+[vault](https://github.com/andikaleonardo/vault) is built on top of Bitly’s open source [oauth2_proxy](https://github.com/bitly/oauth2_proxy)
 
 ## Running the Project
 
@@ -86,7 +44,7 @@ cargo run
 
 🎈 Thanks for your help improving the project! We are so happy to have
 you! We have a [contributing guide][contributing] to help you get involved in the
-`one` project.
+`vault` project.
 
 ## License
 
